@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "zimnycat.Ruler.mixins",
+  "refmap": "mixins.Ruler.json",
+  "client": [
+  ]
+}

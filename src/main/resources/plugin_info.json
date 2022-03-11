@@ -1,0 +1,11 @@
+{
+  "name": "Ruler",
+  "version": "1.0",
+  "description": "Just a ruler",
+  "url": "https://github.com/ZimnyCat/Ruler",
+  "authors": [ "ZimnyCat" ],
+  "main_class": "zimnycat.Ruler.RulerPlugin",
+  "min_api_version": "3.0",
+  "mixins": [ "mixins.Ruler.json" ],
+  "required_plugins": []
+}
