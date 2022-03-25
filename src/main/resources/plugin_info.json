@@ -6,6 +6,5 @@
   "authors": [ "ZimnyCat" ],
   "main_class": "zimnycat.Ruler.RulerPlugin",
   "min_api_version": "3.0",
-  "mixins": [ "mixins.Ruler.json" ],
   "required_plugins": []
 }
